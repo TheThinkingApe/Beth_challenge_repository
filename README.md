@@ -1,2 +1,2 @@
-# Beth_repository_1
+# Beth's challenge repository
  
